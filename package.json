@@ -1,0 +1,19 @@
+{
+  "name": "trade-x-indian-market-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Trade X: provider-agnostic Indian stock market analysis and trading intelligence app with verified delayed equity snapshots and demo options/backtest modules.",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "fetch:prices": "node scripts/fetch_latest_snapshot.mjs",
+    "qa": "node scripts/qa_full_check.mjs",
+    "build": "node scripts/build_single_file.mjs",
+    "check": "find src server scripts \\( -name \"*.js\" -o -name \"*.mjs\" \\) -print0 | xargs -0 -n1 node --check",
+    "serve:live": "node server/start-live.mjs",
+    "live:test": "node -e \"import('./server/live-data-service.mjs').then(async m=>{const s=await m.getMarketSnapshot({force:true}); console.log(s.status, s.validation);})\"",
+    "live:readiness": "node scripts/live_readiness_check.mjs",
+    "fetch:options": "node scripts/fetch_nifty_option_snapshot.mjs",
+    "upstox:test": "node server/start-live.mjs"
+  }
+}
