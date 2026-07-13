@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "npm run build",
+  "buildCommand": "echo Using prebuilt Trade X static site",
   "outputDirectory": "."
 }
