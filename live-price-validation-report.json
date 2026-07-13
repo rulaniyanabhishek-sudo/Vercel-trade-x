@@ -1,0 +1,477 @@
+{
+  "total": 67,
+  "mismatches": 0,
+  "checks": [
+    {
+      "symbol": "RELIANCE",
+      "pass1": 1307.8,
+      "pass2": 1307.8,
+      "accepted": 1307.8,
+      "ok": true
+    },
+    {
+      "symbol": "HDFCBANK",
+      "pass1": 824.95,
+      "pass2": 824.95,
+      "accepted": 824.95,
+      "ok": true
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "pass1": 567.7,
+      "pass2": 567.7,
+      "accepted": 567.7,
+      "ok": true
+    },
+    {
+      "symbol": "ICICIBANK",
+      "pass1": 1401.2,
+      "pass2": 1401.2,
+      "accepted": 1401.2,
+      "ok": true
+    },
+    {
+      "symbol": "INFY",
+      "pass1": 1068,
+      "pass2": 1068,
+      "accepted": 1068,
+      "ok": true
+    },
+    {
+      "symbol": "INDIGO",
+      "pass1": 5312,
+      "pass2": 5312,
+      "accepted": 5312,
+      "ok": true
+    },
+    {
+      "symbol": "TCS",
+      "pass1": 2069,
+      "pass2": 2069,
+      "accepted": 2069,
+      "ok": true
+    },
+    {
+      "symbol": "LT",
+      "pass1": 3945.8,
+      "pass2": 3945.8,
+      "accepted": 3945.8,
+      "ok": true
+    },
+    {
+      "symbol": "ITC",
+      "pass1": 281.75,
+      "pass2": 281.75,
+      "accepted": 281.75,
+      "ok": true
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "pass1": 1920.4,
+      "pass2": 1920.4,
+      "accepted": 1920.4,
+      "ok": true
+    },
+    {
+      "symbol": "SBIN",
+      "pass1": 1036,
+      "pass2": 1036,
+      "accepted": 1036,
+      "ok": true
+    },
+    {
+      "symbol": "AXISBANK",
+      "pass1": 1323.7,
+      "pass2": 1323.7,
+      "accepted": 1323.7,
+      "ok": true
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "pass1": 377.6,
+      "pass2": 377.6,
+      "accepted": 377.6,
+      "ok": true
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "pass1": 2150.6,
+      "pass2": 2150.6,
+      "accepted": 2150.6,
+      "ok": true
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "pass1": 1020.5,
+      "pass2": 1020.5,
+      "accepted": 1020.5,
+      "ok": true
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "pass1": 1916,
+      "pass2": 1916,
+      "accepted": 1916,
+      "ok": true
+    },
+    {
+      "symbol": "MARUTI",
+      "pass1": 13854,
+      "pass2": 13854,
+      "accepted": 13854,
+      "ok": true
+    },
+    {
+      "symbol": "M&M",
+      "pass1": 3129.4,
+      "pass2": 3129.4,
+      "accepted": 3129.4,
+      "ok": true
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "pass1": 1108.1,
+      "pass2": 1108.1,
+      "accepted": 1108.1,
+      "ok": true
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "pass1": 1935.5,
+      "pass2": 1935.5,
+      "accepted": 1935.5,
+      "ok": true
+    },
+    {
+      "symbol": "TMPV",
+      "pass1": 337.95,
+      "pass2": 337.95,
+      "accepted": 337.95,
+      "ok": true
+    },
+    {
+      "symbol": "TATASTEEL",
+      "pass1": 191.19,
+      "pass2": 191.19,
+      "accepted": 191.19,
+      "ok": true
+    },
+    {
+      "symbol": "NTPC",
+      "pass1": 344.55,
+      "pass2": 344.55,
+      "accepted": 344.55,
+      "ok": true
+    },
+    {
+      "symbol": "POWERGRID",
+      "pass1": 283.1,
+      "pass2": 283.1,
+      "accepted": 283.1,
+      "ok": true
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "pass1": 11711,
+      "pass2": 11711,
+      "accepted": 11711,
+      "ok": true
+    },
+    {
+      "symbol": "TITAN",
+      "pass1": 4584.4,
+      "pass2": 4584.4,
+      "accepted": 4584.4,
+      "ok": true
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "pass1": 2677.8,
+      "pass2": 2677.8,
+      "accepted": 2677.8,
+      "ok": true
+    },
+    {
+      "symbol": "TECHM",
+      "pass1": 1454.8,
+      "pass2": 1454.8,
+      "accepted": 1454.8,
+      "ok": true
+    },
+    {
+      "symbol": "HCLTECH",
+      "pass1": 1164.1,
+      "pass2": 1164.1,
+      "accepted": 1164.1,
+      "ok": true
+    },
+    {
+      "symbol": "NESTLEIND",
+      "pass1": 1455.2,
+      "pass2": 1455.2,
+      "accepted": 1455.2,
+      "ok": true
+    },
+    {
+      "symbol": "WIPRO",
+      "pass1": 175.46,
+      "pass2": 175.46,
+      "accepted": 175.46,
+      "ok": true
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "pass1": 1245.4,
+      "pass2": 1245.4,
+      "accepted": 1245.4,
+      "ok": true
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "pass1": 1828.1,
+      "pass2": 1828.1,
+      "accepted": 1828.1,
+      "ok": true
+    },
+    {
+      "symbol": "ADANIENT",
+      "pass1": 3157.3,
+      "pass2": 3157.3,
+      "accepted": 3157.3,
+      "ok": true
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "pass1": 8841,
+      "pass2": 8841,
+      "accepted": 8841,
+      "ok": true
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "pass1": 10156,
+      "pass2": 10156,
+      "accepted": 10156,
+      "ok": true
+    },
+    {
+      "symbol": "BEL",
+      "pass1": 414.85,
+      "pass2": 414.85,
+      "accepted": 414.85,
+      "ok": true
+    },
+    {
+      "symbol": "BRITANNIA",
+      "pass1": 5353,
+      "pass2": 5353,
+      "accepted": 5353,
+      "ok": true
+    },
+    {
+      "symbol": "CIPLA",
+      "pass1": 1439.4,
+      "pass2": 1439.4,
+      "accepted": 1439.4,
+      "ok": true
+    },
+    {
+      "symbol": "COALINDIA",
+      "pass1": 429.3,
+      "pass2": 429.3,
+      "accepted": 429.3,
+      "ok": true
+    },
+    {
+      "symbol": "DRREDDY",
+      "pass1": 1244.3,
+      "pass2": 1244.3,
+      "accepted": 1244.3,
+      "ok": true
+    },
+    {
+      "symbol": "EICHERMOT",
+      "pass1": 7365.5,
+      "pass2": 7365.5,
+      "accepted": 7365.5,
+      "ok": true
+    },
+    {
+      "symbol": "GRASIM",
+      "pass1": 3213.6,
+      "pass2": 3213.6,
+      "accepted": 3213.6,
+      "ok": true
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "pass1": 4949.1,
+      "pass2": 4949.1,
+      "accepted": 4949.1,
+      "ok": true
+    },
+    {
+      "symbol": "HINDALCO",
+      "pass1": 967.45,
+      "pass2": 967.45,
+      "accepted": 967.45,
+      "ok": true
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "pass1": 1015.8,
+      "pass2": 1015.8,
+      "accepted": 1015.8,
+      "ok": true
+    },
+    {
+      "symbol": "JIOFIN",
+      "pass1": 241.96,
+      "pass2": 241.96,
+      "accepted": 241.96,
+      "ok": true
+    },
+    {
+      "symbol": "ONGC",
+      "pass1": 244.96,
+      "pass2": 244.96,
+      "accepted": 244.96,
+      "ok": true
+    },
+    {
+      "symbol": "SBILIFE",
+      "pass1": 1862.9,
+      "pass2": 1862.9,
+      "accepted": 1862.9,
+      "ok": true
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "pass1": 1044.1,
+      "pass2": 1044.1,
+      "accepted": 1044.1,
+      "ok": true
+    },
+    {
+      "symbol": "TATACONSUM",
+      "pass1": 1111.9,
+      "pass2": 1111.9,
+      "accepted": 1111.9,
+      "ok": true
+    },
+    {
+      "symbol": "TRENT",
+      "pass1": 2902.8,
+      "pass2": 2902.8,
+      "accepted": 2902.8,
+      "ok": true
+    },
+    {
+      "symbol": "ETERNAL",
+      "pass1": 289.65,
+      "pass2": 289.65,
+      "accepted": 289.65,
+      "ok": true
+    },
+    {
+      "symbol": "DMART",
+      "pass1": 4081.1,
+      "pass2": 4081.1,
+      "accepted": 4081.1,
+      "ok": true
+    },
+    {
+      "symbol": "PIDILITIND",
+      "pass1": 1598.5,
+      "pass2": 1598.5,
+      "accepted": 1598.5,
+      "ok": true
+    },
+    {
+      "symbol": "BANKBARODA",
+      "pass1": 250.95,
+      "pass2": 250.95,
+      "accepted": 250.95,
+      "ok": true
+    },
+    {
+      "symbol": "PNB",
+      "pass1": 105.41,
+      "pass2": 105.41,
+      "accepted": 105.41,
+      "ok": true
+    },
+    {
+      "symbol": "CANBK",
+      "pass1": 128.78,
+      "pass2": 128.78,
+      "accepted": 128.78,
+      "ok": true
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "pass1": 329.85,
+      "pass2": 329.85,
+      "accepted": 329.85,
+      "ok": true
+    },
+    {
+      "symbol": "AUBANK",
+      "pass1": 1072.1,
+      "pass2": 1072.1,
+      "accepted": 1072.1,
+      "ok": true
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "pass1": 80.83,
+      "pass2": 80.83,
+      "accepted": 80.83,
+      "ok": true
+    },
+    {
+      "symbol": "UNIONBANK",
+      "pass1": 164.51,
+      "pass2": 164.51,
+      "accepted": 164.51,
+      "ok": true
+    },
+    {
+      "symbol": "YESBANK",
+      "pass1": 23.94,
+      "pass2": 23.94,
+      "accepted": 23.94,
+      "ok": true
+    },
+    {
+      "symbol": "NIFTY50",
+      "pass1": 24206.9,
+      "pass2": 24206.9,
+      "accepted": 24206.9,
+      "ok": true
+    },
+    {
+      "symbol": "SENSEX",
+      "pass1": 77569.39,
+      "pass2": 77569.39,
+      "accepted": 77569.39,
+      "ok": true
+    },
+    {
+      "symbol": "BANKNIFTY",
+      "pass1": 58045.9,
+      "pass2": 58045.9,
+      "accepted": 58045.9,
+      "ok": true
+    },
+    {
+      "symbol": "INDIAVIX",
+      "pass1": 12.25,
+      "pass2": 12.25,
+      "accepted": 12.25,
+      "ok": true
+    }
+  ],
+  "ok": true,
+  "failedSymbols": []
+}

@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: trade-x-api
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run serve:live
+    healthCheckPath: /api/health
+    envVars:
+      - key: MARKET_DATA_PROVIDER
+        value: upstox
+      - key: BQ_LIVE_TTL_MS
+        value: "1000"
+      - key: BQ_CLOSED_TTL_MS
+        value: "30000"
+      - key: BQ_OPTIONS_TTL_MS
+        value: "1000"
+      - key: BQ_OPTIONS_CLOSED_TTL_MS
+        value: "15000"
+      - key: BQ_CORS_ORIGIN
+        value: "*"
+      - key: UPSTOX_ACCESS_TOKEN
+        sync: false
+      - key: UPSTOX_NIFTY_EXPIRY_DATE
+        sync: false

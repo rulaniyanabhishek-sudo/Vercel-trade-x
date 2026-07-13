@@ -1,0 +1,20 @@
+# dependencies / caches
+node_modules/
+.npm/
+.cache/
+.vite/
+dist/
+build/
+out/
+coverage/
+
+# local/editor
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# secrets
+.git-credentials
+.netrc

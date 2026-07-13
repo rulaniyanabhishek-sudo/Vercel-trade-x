@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-07-09T21:29:31.129Z",
+  "note": "Tomorrow relative to 2026-07-10 IST is Saturday, so live market refresh should correctly remain closed/delayed. Next Monday probes should be open during 09:00-15:30 IST.",
+  "dataStatusNow": "DELAYED",
+  "marketSessionProbes": [
+    {
+      "label": "tomorrow_10am_ist",
+      "iso": "2026-07-11T10:00:00+05:30",
+      "marketSessionOpen": false
+    },
+    {
+      "label": "next_monday_10am_ist",
+      "iso": "2026-07-13T10:00:00+05:30",
+      "marketSessionOpen": true
+    },
+    {
+      "label": "next_monday_2_30pm_ist",
+      "iso": "2026-07-13T14:30:00+05:30",
+      "marketSessionOpen": true
+    },
+    {
+      "label": "next_monday_4pm_ist",
+      "iso": "2026-07-13T16:00:00+05:30",
+      "marketSessionOpen": false
+    }
+  ],
+  "timeframeAnalysis": [
+    {
+      "timeframe": "1m",
+      "candles": 220,
+      "signal": "WEAK SELL",
+      "score": -22.9,
+      "confidence": 43,
+      "ok": true
+    },
+    {
+      "timeframe": "5m",
+      "candles": 44,
+      "signal": "SELL",
+      "score": -43.6,
+      "confidence": 61,
+      "ok": true
+    },
+    {
+      "timeframe": "15m",
+      "candles": 15,
+      "signal": "SELL",
+      "score": -53.5,
+      "confidence": 72,
+      "ok": true
+    },
+    {
+      "timeframe": "30m",
+      "candles": 8,
+      "signal": "WEAK SELL",
+      "score": -30.2,
+      "confidence": 51,
+      "ok": true
+    },
+    {
+      "timeframe": "1h",
+      "candles": 4,
+      "signal": "WEAK SELL",
+      "score": -21.8,
+      "confidence": 44,
+      "ok": true
+    },
+    {
+      "timeframe": "1d",
+      "candles": 249,
+      "signal": "WAIT",
+      "score": -55.4,
+      "confidence": 54,
+      "ok": true
+    },
+    {
+      "timeframe": "1w",
+      "candles": 50,
+      "signal": "WAIT",
+      "score": -49.9,
+      "confidence": 54,
+      "ok": true
+    }
+  ],
+  "ok": true
+}
